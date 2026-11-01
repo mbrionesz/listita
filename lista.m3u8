@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83ljGsxN7bLpdddNULX2tmaKcM1LvI0P7RveZzIQk1yFe0.png" group-title="NACIONALES",TVN
-https://normielista.xyz/play/HQkNyKDumbK5aA4orDdkkC53t2k_gE46OpwYcpXtmVl2fwLWNv5XsoaNRM_UTZDm/m3u8
+http://207.210.102.121:1935/007_ANATEL_TELEVISION_NACIONAL_NLNCL/index.m3u8?token=17bd808681823666632f2f620e42cc3f14a3ac3e14d9a1b6fe59f77555dc577142836178d82db2b32a9b80daa69b2ea1affff7e9354678aa8b34fbc53470f230
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lqoyPER1S0dw6yZAh395NO3BHhfHN9_AEo4Jk195u3V5.png" group-title="NACIONALES",Mega
 http://207.210.102.121:1935/009_ANATEL_MEGAMEDIA_NLNCL/index.m3u8?token=17bd808681823666632f2f620e42cc3f14a3ac3e14d9a1b6fe59f77555dc577142836178d82db2b32a9b80daa69b2ea1affff7e9354678aa8b34fbc53470f230
 #EXTINF:-1 tvg-logo="https://normielista.xyz/images/4DJbfFaR1De_0578cS83lmziJ5kFKqZLoGjDhQmFsoIdF9VuWbxgXi_ndmatWIlb.png" group-title="NACIONALES",Chilevisión
